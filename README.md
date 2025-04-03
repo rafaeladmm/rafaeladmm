@@ -1,60 +1,80 @@
-# 🚀 Olá, mundo! Eu sou a Rafaela 👩‍💻
+<h2 align="left">🚀 Olá, mundo! Eu sou a Rafaela 👩‍💻</h2>
 
-Sou **Técnica de Sistemas para Internet**, apaixonada por tecnologia e inovação. Atualmente, estou cursando o **3º semestre de Análise e Desenvolvimento de Sistemas** na UniSenac Pelotas. Sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades! 💡✨
+###
 
----
+<div align="center">
+  <img height="300" src="https://i.ibb.co/9jrdSNb/Design-sem-nome-2.png"  />
+</div>
 
-## 🎯 Sobre mim
+###
 
-💻 Desenvolvedora com foco em **criação e desenvolvimento de sistemas**.<br>
-🔍 Experiência como **QA Engineer** no programa de bolsas da Compass UOL.<br>
-🚀 Conhecimento em **testes de software**, **automação de testes** e **metodologias ágeis**.<br>
-🌍 Apaixonada por aprender e explorar o universo da tecnologia!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="30" alt="mocha logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+</div>
 
----
+###
 
-## 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="28" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="28" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="28" alt="instagram logo"  />
+</div>
 
-> **Frontend**
-> - 🏗️ HTML, CSS, JavaScript
-> - ⚛️ React, React Native
-> - 🎨 Bootstrap, Flexbox
+###
 
-> **Backend**
-> - ⚙️ C#, Node.js
+<h3 align="center">🎯 Sobre mim</h3>
 
-> **Banco de Dados**
-> - 🗄️ MySQL, SQL, NoSQL
+###
 
-> **Testes de Software**
-> - 🧪 Mocha, Chai, Postman, JMeter, K6
+<p align="left">◦ Desenvolvedora com foco em criação e desenvolvimento de sistemas.<br><br>◦ Experiência como QA Engineer no programa de bolsas da Compass UOL.<br><br>◦ Conhecimento em testes de software, automação de testes e metodologias ágeis.<br><br>◦ Apaixonada por aprender e explorar o universo da tecnologia!</p>
 
-> **Cloud**
-> - ☁️ AWS (EC2, S3, CloudWatch, IAM, RDS)
-> - 🎓 Conceitos e práticas baseados na certificação **AWS Certified Cloud Practitioner**
+###
 
-> **Outros**
-> - 📦 Pacote Office
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeladmm&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 📜 Formação e Certificados 🎓
+<br clear="both">
 
-📌 **Proficiência em Inglês** pela UCPEL  
-📌 **Monitoria** em Desenvolvimento de Interfaces Web  
-📌 **Curso Técnico de Informática para Internet** pelo SENAC  
-📌 **Curso de Inglês** pelo IFSUL  
-📌 **Curso de Programação** DEV THE DEVS pela PUC  
-📌 **Certificação AWS Certified Cloud Practitioner** *(Cloud Computing, Segurança, Arquitetura e Serviços AWS)*
+<img src="https://raw.githubusercontent.com/rafaeladmm/rafaeladmm/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-## 📬 Vamos nos conectar?
+<h3 align="center">🎓 Formação e Certificados</h3>
 
-📱 **WhatsApp:** [(53) 98119-6152](https://wa.me/5535981196152)  
-📧 **E-mail:** [rafaelademellomartins@gmail.com](mailto:rafaelademellomartins@gmail.com)  
-🖥️ **Linkedin:** [www.linkedin.com/in/rafaela-martins-a38162248](www.linkedin.com/in/rafaela-martins-a38162248)  
+###
 
----
+<p align="left">➱ Proficiência em Inglês pela UCPEL<br><br>➱ Monitoria em Desenvolvimento de Interfaces Web<br><br>➱ Curso Técnico de Informática para Internet pelo SENAC<br><br>➱ Curso de Inglês pelo IFSUL<br><br>➱ Curso de Programação DEV THE DEVS pela PUC<br><br>➱ Certificação AWS Certified Cloud Practitioner (Cloud Computing, Segurança, Arquitetura e Serviços AWS)</p>
 
-🎯 *Sempre em busca de inovação e crescimento no mundo da tecnologia!* 🚀
+###
+
+<img align="right" height="0" src="https://i.ibb.co/9jrdSNb/Design-sem-nome-2.png"  />
+
+###
